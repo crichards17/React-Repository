@@ -56,8 +56,8 @@ function ProjectContainer() {
                 </div>
                 <div className="col-sm my-2">
                     <ProjectCard 
-                        title="Toolshare"
-                        image="https://raw.githubusercontent.com/crichards17/React-Employee-Repository/main/Assets/Directory_Demo.gif"
+                        title="Tool Trader"
+                        image="https://github.com/crichards17/React-Repository/blob/main/assets/images/toolshare.PNG?raw=true"
                         description="A site for sharing, trading, and borrowing tools: a community tradition, brought to the web."
                         github="https://github.com/crichards17/Toolshare"
                         deployed="https://pacific-tor-20392.herokuapp.com/"

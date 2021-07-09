@@ -4,7 +4,7 @@
   "description": "Mern Demo",
   "private": true,
   "proxy": "http://localhost:3001/",
-  "homepage": "https://github.com/crichards17/React-Repository",
+  "homepage": "https://crichards17.github.io/React-Repository/",
   "dependencies": {
     "gh-pages": "^3.2.3",
     "react": "^16.13.1",
