@@ -1,25 +1,26 @@
 {
   "files": {
-    "main.css": "/React-Repository/static/css/main.9db21343.chunk.css",
-    "main.js": "/React-Repository/static/js/main.880268a9.chunk.js",
-    "main.js.map": "/React-Repository/static/js/main.880268a9.chunk.js.map",
+    "main.css": "/React-Repository/static/css/main.6d4c1745.chunk.css",
+    "main.js": "/React-Repository/static/js/main.4d4c11ee.chunk.js",
+    "main.js.map": "/React-Repository/static/js/main.4d4c11ee.chunk.js.map",
     "runtime-main.js": "/React-Repository/static/js/runtime-main.17fc1e24.js",
     "runtime-main.js.map": "/React-Repository/static/js/runtime-main.17fc1e24.js.map",
     "static/css/2.cd554934.chunk.css": "/React-Repository/static/css/2.cd554934.chunk.css",
-    "static/js/2.83abfd56.chunk.js": "/React-Repository/static/js/2.83abfd56.chunk.js",
-    "static/js/2.83abfd56.chunk.js.map": "/React-Repository/static/js/2.83abfd56.chunk.js.map",
+    "static/js/2.12b5b895.chunk.js": "/React-Repository/static/js/2.12b5b895.chunk.js",
+    "static/js/2.12b5b895.chunk.js.map": "/React-Repository/static/js/2.12b5b895.chunk.js.map",
     "index.html": "/React-Repository/index.html",
-    "precache-manifest.a529545804b1c062481cc32c4adf5938.js": "/React-Repository/precache-manifest.a529545804b1c062481cc32c4adf5938.js",
+    "precache-manifest.bdcd19dfde51980c5fbcf8044c0af13e.js": "/React-Repository/precache-manifest.bdcd19dfde51980c5fbcf8044c0af13e.js",
     "service-worker.js": "/React-Repository/service-worker.js",
     "static/css/2.cd554934.chunk.css.map": "/React-Repository/static/css/2.cd554934.chunk.css.map",
-    "static/css/main.9db21343.chunk.css.map": "/React-Repository/static/css/main.9db21343.chunk.css.map",
-    "static/js/2.83abfd56.chunk.js.LICENSE.txt": "/React-Repository/static/js/2.83abfd56.chunk.js.LICENSE.txt"
+    "static/css/main.6d4c1745.chunk.css.map": "/React-Repository/static/css/main.6d4c1745.chunk.css.map",
+    "static/js/2.12b5b895.chunk.js.LICENSE.txt": "/React-Repository/static/js/2.12b5b895.chunk.js.LICENSE.txt",
+    "static/media/Cameron_Richards_Resume.pdf": "/React-Repository/static/media/Cameron_Richards_Resume.557cee6c.pdf"
   },
   "entrypoints": [
     "static/js/runtime-main.17fc1e24.js",
     "static/css/2.cd554934.chunk.css",
-    "static/js/2.83abfd56.chunk.js",
-    "static/css/main.9db21343.chunk.css",
-    "static/js/main.880268a9.chunk.js"
+    "static/js/2.12b5b895.chunk.js",
+    "static/css/main.6d4c1745.chunk.css",
+    "static/js/main.4d4c11ee.chunk.js"
   ]
 }
