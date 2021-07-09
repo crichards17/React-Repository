@@ -3,7 +3,7 @@ import ProjectCard from "../ProjectCard/ProjectCard";
 
 function ProjectContainer() {
     return (
-        <div className="container mt-2">
+        <div className="container mt-2 pb-5">
             <div className="row">
                 <div className="col-sm my-2">
                     <ProjectCard 
